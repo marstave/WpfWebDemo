@@ -62,7 +62,7 @@ namespace WpfWebDemo
 
                         <script type='text/babel'>
                             function test(){
-                               alert('ok')
+                               alert('ok fra func')
                             }
                         </script>
                         <style>
