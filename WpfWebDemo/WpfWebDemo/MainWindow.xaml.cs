@@ -61,6 +61,9 @@ namespace WpfWebDemo
                         <script src='https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.7.4/polyfill.min.js'></script>
 
                         <script type='text/babel'>
+                            function test(){
+                               alert('ok')
+                            }
                         </script>
                         <style>
                             body {
@@ -72,6 +75,7 @@ namespace WpfWebDemo
                     <body>
                        <h2>Just a demo</h2>
                        Tester og tester 
+                       <button onclick='test()'>test</button>
                     </body>
                     </html> 
                     ";
