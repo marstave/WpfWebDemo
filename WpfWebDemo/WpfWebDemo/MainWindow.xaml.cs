@@ -75,7 +75,8 @@ namespace WpfWebDemo
                     <body>
                        <h2>Just a demo</h2>
                        Tester og tester 
-                       <button onclick='test()'>test</button>
+                       <button onclick='test()'>test</button> 
+                       Fonten virker annerledes enn på hjemme maskinen 
                     </body>
                     </html> 
                     ";
